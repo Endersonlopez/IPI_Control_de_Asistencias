@@ -229,3 +229,60 @@ CREATE TABLE [SQM_SEGURIDAD].[Tbl_Solicitudes_Cambio](
     Id_Admin_Atencion INT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario)
 );
 GO
+
+-- GRADOS
+CREATE TABLE [SQM_CATALOGOS].[Tbl_Grados]
+(
+    Id_Grado INT PRIMARY KEY IDENTITY(1,1),
+    Id_Sede INT NOT NULL REFERENCES [SQM_GENERAL].[Tbl_Sedes](Id_Sede),
+    Nombre_Grado VARCHAR(100) NOT NULL,
+    Id_Estado INT NOT NULL REFERENCES [SQM_CATALOGOS].[Tbl_Estados](Id_Estado),
+    Id_Creador INT NOT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
+    Fecha_Creacion DATETIME NOT NULL,
+    Id_Modificador INT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
+    Fecha_Modificacion DATETIME NULL
+);
+
+-- ALUMNOS
+CREATE TABLE [SQM_GENERAL].[Tbl_Alumnos]
+(
+    Id_Alumno INT PRIMARY KEY IDENTITY(1,1),
+    Id_Usuario INT NOT NULL UNIQUE REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
+    Id_Grado INT NOT NULL REFERENCES [SQM_CATALOGOS].[Tbl_Grados](Id_Grado),
+    Documento_Identidad VARCHAR(50) NOT NULL UNIQUE,
+    Id_Estado INT NOT NULL REFERENCES [SQM_CATALOGOS].[Tbl_Estados](Id_Estado),
+    Id_Creador INT NOT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
+    Fecha_Creacion DATETIME NOT NULL,
+    Id_Modificador INT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
+    Fecha_Modificacion DATETIME NULL
+);
+
+-- PROFESORES
+CREATE TABLE [SQM_GENERAL].[Tbl_Profesores](
+    Id_Profesor INT PRIMARY KEY IDENTITY(1,1),
+    Id_Usuario INT NOT NULL UNIQUE REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
+    Facultad VARCHAR(100) NOT NULL,
+    Id_Estado INT NOT NULL REFERENCES [SQM_CATALOGOS].[Tbl_Estados](Id_Estado),
+    Id_Creador INT NOT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
+    Fecha_Creacion DATETIME NOT NULL,
+    Id_Modificador INT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
+    Fecha_Modificacion DATETIME NULL
+);
+GO
+
+-- ASISTENCIAS
+CREATE TABLE [SQM_GENERAL].[Tbl_Asistencias]
+(
+    Id_Asistencia INT PRIMARY KEY IDENTITY(1,1),
+    Id_Alumno INT NOT NULL REFERENCES [SQM_GENERAL].[Tbl_Alumnos](Id_Alumno),
+    Id_Horario INT NOT NULL REFERENCES [SQM_GENERAL].[Tbl_Horarios](Id_Horario),
+    Fecha DATE NOT NULL,
+    Hora TIME NOT NULL,
+    Id_Estado_Asistencia INT NOT NULL REFERENCES [SQM_CATALOGOS].[Tbl_Estados_Asistencia](Id_Estado_Asistencia),
+    Id_Estado INT NOT NULL REFERENCES [SQM_CATALOGOS].[Tbl_Estados](Id_Estado),
+    Id_Creador INT NOT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
+    Fecha_Creacion DATETIME NOT NULL DEFAULT GETDATE(),
+    Id_Modificador INT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
+    Fecha_Modificacion DATETIME NULL
+);
+GO
