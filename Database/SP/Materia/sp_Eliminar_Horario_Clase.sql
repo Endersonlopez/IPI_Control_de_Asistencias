@@ -1,4 +1,4 @@
-USE [DB_IPI_Control_Asistencias];
+USE [DB_Control_Asistencias];
 GO
 
 CREATE OR ALTER PROCEDURE [SQM_GENERAL].[sp_Eliminar_Horario_Clase]
