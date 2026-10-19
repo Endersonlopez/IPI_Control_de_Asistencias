@@ -287,44 +287,4 @@ CREATE TABLE [SQM_GENERAL].[Tbl_Asistencias]
 );
 GO
 
--- HORARIOS
-CREATE TABLE [SQM_GENERAL].[Tbl_Horarios](
-    Id_Horario INT PRIMARY KEY IDENTITY(1,1),
-    Id_Materia INT NOT NULL REFERENCES [SQM_CATALOGOS].[Tbl_Materias](Id_Materia),
-    Id_Profesor INT NOT NULL REFERENCES [SQM_GENERAL].[Tbl_Profesores](Id_Profesor),
-    Dia_Semana INT NOT NULL,
-    Hora_Inicio TIME NOT NULL,
-    Hora_Fin TIME NOT NULL,
-    Id_Estado INT NOT NULL DEFAULT 1 REFERENCES [SQM_CATALOGOS].[Tbl_Estados](Id_Estado),
-    Id_Creador INT NOT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
-    Fecha_Creacion DATETIME NOT NULL DEFAULT GETDATE(),
-    Id_Modificador INT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
-    Fecha_Modificacion DATETIME NULL
-);
 
--- ALUMNOS - MATERIAS
-CREATE TABLE [SQM_GENERAL].[Tbl_Alumnos_Materias](
-    Id_Alumno_Materia INT PRIMARY KEY IDENTITY(1,1),
-    Id_Alumno INT NOT NULL REFERENCES [SQM_GENERAL].[Tbl_Alumnos](Id_Alumno),
-    Id_Materia INT NOT NULL REFERENCES [SQM_CATALOGOS].[Tbl_Materias](Id_Materia),
-    Id_Estado INT NOT NULL DEFAULT 1 REFERENCES [SQM_CATALOGOS].[Tbl_Estados](Id_Estado),
-    Id_Creador INT NOT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
-    Fecha_Creacion DATETIME NOT NULL DEFAULT GETDATE(),
-    Id_Modificador INT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
-    Fecha_Modificacion DATETIME NULL,
-    CONSTRAINT UQ_Alumno_Materia UNIQUE (Id_Alumno, Id_Materia)
-);
-GO
-
--- SOLICITUDES DE CAMBIO
-
-CREATE TABLE [SQM_SEGURIDAD].[Tbl_Solicitudes_Cambio](
-    Id_Solicitud INT PRIMARY KEY IDENTITY(1,1),
-    Id_Usuario INT NOT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
-    Estado VARCHAR(20) NOT NULL DEFAULT 'Pendiente',
-    Nueva_Contrasena VARCHAR(100) NULL,
-    Fecha_Solicitud DATETIME NOT NULL DEFAULT GETDATE(),
-    Fecha_Atencion DATETIME NULL,
-    Id_Admin_Atencion INT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario)
-);
-GO
