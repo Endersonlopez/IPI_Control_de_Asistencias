@@ -317,6 +317,7 @@ CREATE TABLE [SQM_GENERAL].[Tbl_Alumnos_Materias](
 GO
 
 -- SOLICITUDES DE CAMBIO
+
 CREATE TABLE [SQM_SEGURIDAD].[Tbl_Solicitudes_Cambio](
     Id_Solicitud INT PRIMARY KEY IDENTITY(1,1),
     Id_Usuario INT NOT NULL REFERENCES [SQM_SEGURIDAD].[Tbl_Usuarios](Id_Usuario),
