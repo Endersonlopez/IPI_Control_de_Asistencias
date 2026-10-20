@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7F9579-8ED8-4ACC-A62C-DCEAB31C3BC3}|AS.APLICATION\\AS.APLICATION.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.aplication\\as.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D7F9579-8ED8-4ACC-A62C-DCEAB31C3BC3}|AS.APLICATION\\AS.APLICATION.csproj|solutionrelative:as.aplication\\as.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B163113-48FC-43F9-A209-0CC4F919DA44}|AS.INFRAESTRUCTURE\\AS.INFRAESTRUCTURE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.infraestructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B163113-48FC-43F9-A209-0CC4F919DA44}|AS.INFRAESTRUCTURE\\AS.INFRAESTRUCTURE.csproj|solutionrelative:as.infraestructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C945E4-368C-47A9-9DE5-F7001D142309}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.domine\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C945E4-368C-47A9-9DE5-F7001D142309}|AS.DOMINE\\AS.DOMINE.csproj|solutionrelative:as.domine\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7F9579-8ED8-4ACC-A62C-DCEAB31C3BC3}|AS.APLICATION\\AS.APLICATION.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.aplication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7F9579-8ED8-4ACC-A62C-DCEAB31C3BC3}|AS.APLICATION\\AS.APLICATION.csproj|solutionrelative:as.aplication\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AS.APLICATION",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj",
+              "RelativeDocumentMoniker": "AS.APLICATION\\AS.APLICATION.csproj",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj",
+              "RelativeToolTip": "AS.APLICATION\\AS.APLICATION.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-20T21:10:59.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.INFRAESTRUCTURE\\Class1.cs",
+              "RelativeDocumentMoniker": "AS.INFRAESTRUCTURE\\Class1.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.INFRAESTRUCTURE\\Class1.cs",
+              "RelativeToolTip": "AS.INFRAESTRUCTURE\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T21:04:18.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Class1.cs",
+              "RelativeDocumentMoniker": "AS.DOMINE\\Class1.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Class1.cs",
+              "RelativeToolTip": "AS.DOMINE\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T21:03:51.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\Class1.cs",
+              "RelativeDocumentMoniker": "AS.APLICATION\\Class1.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\Class1.cs",
+              "RelativeToolTip": "AS.APLICATION\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T21:03:20.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
