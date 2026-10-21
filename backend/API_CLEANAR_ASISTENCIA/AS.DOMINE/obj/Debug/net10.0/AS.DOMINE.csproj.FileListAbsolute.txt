@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\bin\Debug\net10.0\AS.DOMINE.deps.json
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\bin\Debug\net10.0\AS.DOMINE.dll
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\bin\Debug\net10.0\AS.DOMINE.pdb
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\obj\Debug\net10.0\AS.DOMINE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\obj\Debug\net10.0\AS.DOMINE.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\obj\Debug\net10.0\AS.DOMINE.AssemblyInfo.cs
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\obj\Debug\net10.0\AS.DOMINE.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\obj\Debug\net10.0\AS.DOMINE.sourcelink.json
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\obj\Debug\net10.0\AS.DOMINE.dll
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\obj\Debug\net10.0\refint\AS.DOMINE.dll
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\obj\Debug\net10.0\AS.DOMINE.pdb
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\obj\Debug\net10.0\ref\AS.DOMINE.dll
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.DOMINE\obj\Debug\net10.0\AS.DOMINE.csproj.Up2Date

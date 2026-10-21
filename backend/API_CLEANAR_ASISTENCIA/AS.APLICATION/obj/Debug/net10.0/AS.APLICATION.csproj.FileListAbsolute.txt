@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\bin\Debug\net10.0\AS.APLICATION.deps.json
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\bin\Debug\net10.0\AS.APLICATION.dll
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\bin\Debug\net10.0\AS.APLICATION.pdb
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\bin\Debug\net10.0\AS.DOMINE.dll
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\bin\Debug\net10.0\AS.DOMINE.pdb
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\obj\Debug\net10.0\AS.APLICATION.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\obj\Debug\net10.0\AS.APLICATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\obj\Debug\net10.0\AS.APLICATION.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\obj\Debug\net10.0\AS.APLICATION.AssemblyInfo.cs
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\obj\Debug\net10.0\AS.APLICATION.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\obj\Debug\net10.0\AS.APLICATION.sourcelink.json
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\obj\Debug\net10.0\AS.APLIC.3996F0DE.Up2Date
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\obj\Debug\net10.0\AS.APLICATION.dll
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\obj\Debug\net10.0\refint\AS.APLICATION.dll
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\obj\Debug\net10.0\AS.APLICATION.pdb
+C:\Users\HP\Desktop\Proyecto Lovo 🐸\IPI_Control_de_Asistencias\backend\API_CLEANAR_ASISTENCIA\AS.APLICATION\obj\Debug\net10.0\ref\AS.APLICATION.dll
