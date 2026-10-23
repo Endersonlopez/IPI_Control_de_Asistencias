@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj": {
+    "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj",
         "projectName": "AS.APLICATION",
-        "projectPath": "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj",
-        "packagesPath": "C:\\Users\\Señor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Señor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -33,8 +34,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\AS.DOMINE.csproj": {
-                "projectPath": "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\AS.DOMINE.csproj"
+              "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\AS.DOMINE.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\AS.DOMINE.csproj"
               }
             }
           }
@@ -349,20 +350,20 @@
         }
       }
     },
-    "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\AS.DOMINE.csproj": {
+    "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\AS.DOMINE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\AS.DOMINE.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\AS.DOMINE.csproj",
         "projectName": "AS.DOMINE",
-        "projectPath": "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\AS.DOMINE.csproj",
-        "packagesPath": "C:\\Users\\Señor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\AS.DOMINE.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Señor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -371,6 +372,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

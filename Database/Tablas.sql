@@ -286,3 +286,5 @@ CREATE TABLE [SQM_GENERAL].[Tbl_Asistencias]
     Fecha_Modificacion DATETIME NULL
 );
 GO
+
+

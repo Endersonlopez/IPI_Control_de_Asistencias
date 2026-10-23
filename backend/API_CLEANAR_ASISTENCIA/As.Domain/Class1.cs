@@ -1,4 +1,4 @@
-﻿namespace AS.DOMINE
+﻿namespace As.Domain
 {
     public class Class1
     {
