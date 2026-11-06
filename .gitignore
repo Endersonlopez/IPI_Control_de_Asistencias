@@ -1,0 +1,44 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Carpetas de compilación
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+Generated\ Files/
+
+# Binarios y símbolos de depuración
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.ilk
+*.exp
+
+# Configuración de usuario y sesiones de Visual Studio
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+.vs/
