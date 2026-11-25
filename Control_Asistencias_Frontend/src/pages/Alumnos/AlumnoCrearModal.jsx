@@ -42,7 +42,7 @@ export default function AlumnoCrearModal({ onClose, onCreado }) {
   // Cargar carreras desde la API
   const cargarCarreras = useCallback(async () => {
     try {
-      const response = await fetch('http://localhost:5110/api/Grados/listar', {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Grados/listar`, {
         headers: { 'Authorization': `Bearer ${obtenerToken()}` }
       });
       if (response.ok) {
@@ -88,7 +88,7 @@ export default function AlumnoCrearModal({ onClose, onCreado }) {
     }
     setCreandoCarrera(true);
     try {
-      const response = await fetch('http://localhost:5110/api/Grados/insertar', {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Grados/insertar`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -148,7 +148,7 @@ export default function AlumnoCrearModal({ onClose, onCreado }) {
     };
 
     try {
-      const response = await fetch('http://localhost:5110/api/Alumnos/registro_integral', {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Alumnos/registro_integral`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

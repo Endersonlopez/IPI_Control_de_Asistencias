@@ -39,8 +39,8 @@ export default function ProfesorModal({ profesor, onClose }) {
 
     try {
       const url = isEditing 
-        ? `http://localhost:5110/api/Profesores/actualizar` 
-        : `http://localhost:5110/api/Profesores/insertar`;
+        ? `${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Profesores/actualizar` 
+        : `${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Profesores/insertar`;
         
       const method = isEditing ? 'PUT' : 'POST';
 

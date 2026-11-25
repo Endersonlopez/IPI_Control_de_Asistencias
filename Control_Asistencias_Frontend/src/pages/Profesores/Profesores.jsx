@@ -97,7 +97,7 @@ export default function Profesores() {
           const idModificador = obtenerUsuarioLogueado();
           const token = obtenerToken();
           try {
-            const response = await fetch(`http://localhost:5110/api/Profesores/eliminar/${profesor.id_Profesor}?idModificador=${idModificador}`, {
+            const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Profesores/eliminar/${profesor.id_Profesor}?idModificador=${idModificador}`, {
               method: 'DELETE',
               headers: {
                 'Content-Type': 'application/json',
@@ -129,7 +129,7 @@ export default function Profesores() {
           const idModificador = obtenerUsuarioLogueado();
           const token = obtenerToken();
           try {
-            const response = await fetch(`http://localhost:5110/api/Profesores/activar/${profesor.id_Profesor}?idModificador=${idModificador}`, {
+            const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Profesores/activar/${profesor.id_Profesor}?idModificador=${idModificador}`, {
               method: 'PUT',
               headers: {
                 'Content-Type': 'application/json',

@@ -45,7 +45,7 @@ export default function AlumnosList() {
   useEffect(() => {
     const cargarCarreras = async () => {
       try {
-        const response = await fetch('http://localhost:5110/api/Grados/listar', {
+        const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Grados/listar`, {
           headers: { 'Authorization': `Bearer ${obtenerToken()}` }
         });
         if (response.ok) {
@@ -80,7 +80,7 @@ export default function AlumnosList() {
       setLoading(true);
       const token = obtenerToken();
 
-      const response = await fetch('http://localhost:5110/api/Alumnos/listar', {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Alumnos/listar`, {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',
@@ -117,7 +117,7 @@ export default function AlumnosList() {
           const token = obtenerToken();
 
           try {
-            const response = await fetch(`http://localhost:5110/api/Alumnos/eliminar/${alumno.id_Alumno}?idModificador=${idModificador}`, {
+            const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Alumnos/eliminar/${alumno.id_Alumno}?idModificador=${idModificador}`, {
               method: 'DELETE',
               headers: {
                 'Content-Type': 'application/json',
@@ -151,7 +151,7 @@ export default function AlumnosList() {
           const token = obtenerToken();
 
           try {
-            const response = await fetch(`http://localhost:5110/api/Alumnos/activar/${alumno.id_Alumno}?idModificador=${idModificador}`, {
+            const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Alumnos/activar/${alumno.id_Alumno}?idModificador=${idModificador}`, {
               method: 'PUT', 
               headers: {
                 'Content-Type': 'application/json',

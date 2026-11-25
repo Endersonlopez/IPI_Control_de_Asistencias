@@ -1470,23 +1470,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {},
+    "C:\\Users\\Señor\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.PRESENTATION\\AS.PRESENTATION.csproj",
+      "projectUniqueName": "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.PRESENTATION\\AS.PRESENTATION.csproj",
       "projectName": "AS.PRESENTATION",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.PRESENTATION\\AS.PRESENTATION.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.PRESENTATION\\obj\\",
+      "projectPath": "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.PRESENTATION\\AS.PRESENTATION.csproj",
+      "packagesPath": "C:\\Users\\Señor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.PRESENTATION\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Señor\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1495,7 +1495,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1503,11 +1502,11 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj"
+            "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj": {
+              "projectPath": "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.APLICATION\\AS.APLICATION.csproj"
             },
-            "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.INFRAESTRUCTURE\\AS.INFRAESTRUCTURE.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\Proyecto Lovo 🐸\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.INFRAESTRUCTURE\\AS.INFRAESTRUCTURE.csproj"
+            "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.INFRAESTRUCTURE\\AS.INFRAESTRUCTURE.csproj": {
+              "projectPath": "C:\\Users\\Señor\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.INFRAESTRUCTURE\\AS.INFRAESTRUCTURE.csproj"
             }
           }
         }
