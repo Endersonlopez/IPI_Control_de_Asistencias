@@ -118,7 +118,10 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     });
 
 // Configuración del host para escuchar todas las interfaces de red
-builder.WebHost.UseUrls("http://0.0.0.0:5110");
+if (builder.Environment.IsDevelopment())
+{
+    builder.WebHost.UseUrls("http://0.0.0.0:5110");
+}
 
 var app = builder.Build();
 

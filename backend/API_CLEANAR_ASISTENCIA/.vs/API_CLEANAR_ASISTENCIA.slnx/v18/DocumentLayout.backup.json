@@ -1,49 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\",
+  "WorkspaceRootPath": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\hp\\desktop\\proyecto lovo \uD83D\uDC38\\ipi_control_de_asistencias\\backend\\api_cleanar_asistencia\\as.domine\\tbl_usuarios_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CC37504-3B29-2A5C-EA12-3220BC9B6AD6}|AS.PRESENTATION\\AS.PRESENTATION.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.presentation\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CC37504-3B29-2A5C-EA12-3220BC9B6AD6}|AS.PRESENTATION\\AS.PRESENTATION.csproj|solutionrelative:as.presentation\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC37504-3B29-2A5C-EA12-3220BC9B6AD6}|AS.PRESENTATION\\AS.PRESENTATION.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.presentation\\properties\\publishprofiles\\site110982-webdeploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4CC37504-3B29-2A5C-EA12-3220BC9B6AD6}|AS.PRESENTATION\\AS.PRESENTATION.csproj|solutionrelative:as.presentation\\properties\\publishprofiles\\site110982-webdeploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F9E52D-D0C0-06BD-3848-CD76AD8EBCBF}|AS.INFRAESTRUCTURE\\AS.INFRAESTRUCTURE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.infraestructure\\repository\\profesoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F9E52D-D0C0-06BD-3848-CD76AD8EBCBF}|AS.INFRAESTRUCTURE\\AS.INFRAESTRUCTURE.csproj|solutionrelative:as.infraestructure\\repository\\profesoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC37504-3B29-2A5C-EA12-3220BC9B6AD6}|AS.PRESENTATION\\AS.PRESENTATION.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CC37504-3B29-2A5C-EA12-3220BC9B6AD6}|AS.PRESENTATION\\AS.PRESENTATION.csproj|solutionrelative:as.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.domine\\tbl_usuarios_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|solutionrelative:as.domine\\tbl_usuarios_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\hp\\desktop\\proyecto lovo \uD83D\uDC38\\ipi_control_de_asistencias\\backend\\api_cleanar_asistencia\\as.domine\\tbl_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.domine\\tbl_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|solutionrelative:as.domine\\tbl_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\hp\\desktop\\proyecto lovo \uD83D\uDC38\\ipi_control_de_asistencias\\backend\\api_cleanar_asistencia\\as.domine\\tbl_sedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.domine\\tbl_sedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|solutionrelative:as.domine\\tbl_sedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\hp\\desktop\\proyecto lovo \uD83D\uDC38\\ipi_control_de_asistencias\\backend\\api_cleanar_asistencia\\as.domine\\tbl_profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.domine\\tbl_profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|solutionrelative:as.domine\\tbl_profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\hp\\desktop\\proyecto lovo \uD83D\uDC38\\ipi_control_de_asistencias\\backend\\api_cleanar_asistencia\\as.domine\\tbl_materias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.domine\\tbl_materias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|solutionrelative:as.domine\\tbl_materias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\hp\\desktop\\proyecto lovo \uD83D\uDC38\\ipi_control_de_asistencias\\backend\\api_cleanar_asistencia\\as.domine\\tbl_instituciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.domine\\tbl_instituciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|solutionrelative:as.domine\\tbl_instituciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\hp\\desktop\\proyecto lovo \uD83D\uDC38\\ipi_control_de_asistencias\\backend\\api_cleanar_asistencia\\as.domine\\tbl_grados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.domine\\tbl_grados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|solutionrelative:as.domine\\tbl_grados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\hp\\desktop\\proyecto lovo \uD83D\uDC38\\ipi_control_de_asistencias\\backend\\api_cleanar_asistencia\\as.domine\\tbl_estados_asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.domine\\tbl_estados_asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|solutionrelative:as.domine\\tbl_estados_asistencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\hp\\desktop\\proyecto lovo \uD83D\uDC38\\ipi_control_de_asistencias\\backend\\api_cleanar_asistencia\\as.domine\\tbl_estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.domine\\tbl_estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|solutionrelative:as.domine\\tbl_estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\hp\\desktop\\proyecto lovo \uD83D\uDC38\\ipi_control_de_asistencias\\backend\\api_cleanar_asistencia\\as.domine\\tbl_credenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.domine\\tbl_credenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|solutionrelative:as.domine\\tbl_credenciales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\hp\\desktop\\proyecto lovo \uD83D\uDC38\\ipi_control_de_asistencias\\backend\\api_cleanar_asistencia\\as.domine\\tbl_alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|c:\\users\\se\u00F1or\\desktop\\claselovo\\backend\\api_cleanar_asistencia\\as.domine\\tbl_alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB59E79D-63B9-5E6E-EA79-FCAA621C9F25}|AS.DOMINE\\AS.DOMINE.csproj|solutionrelative:as.domine\\tbl_alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,8 +70,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.PRESENTATION\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "AS.PRESENTATION\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.PRESENTATION\\appsettings.Production.json",
+              "RelativeToolTip": "AS.PRESENTATION\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-25T05:14:48.401Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -82,146 +111,173 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Tbl_Usuarios_Roles.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Usuarios_Roles.cs",
-              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Usuarios_Roles.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Usuarios_Roles.cs",
-              "RelativeToolTip": "AS.DOMINE\\Tbl_Usuarios_Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T18:46:17.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Tbl_Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Usuarios.cs",
-              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Usuarios.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Usuarios.cs",
-              "RelativeToolTip": "AS.DOMINE\\Tbl_Usuarios.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T18:44:45.224Z",
+              "Title": "site110982-WebDeploy.pubxml",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.PRESENTATION\\Properties\\PublishProfiles\\site110982-WebDeploy.pubxml",
+              "RelativeDocumentMoniker": "AS.PRESENTATION\\Properties\\PublishProfiles\\site110982-WebDeploy.pubxml",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.PRESENTATION\\Properties\\PublishProfiles\\site110982-WebDeploy.pubxml",
+              "RelativeToolTip": "AS.PRESENTATION\\Properties\\PublishProfiles\\site110982-WebDeploy.pubxml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-11-25T05:12:54.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Tbl_Sedes.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Sedes.cs",
-              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Sedes.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Sedes.cs",
-              "RelativeToolTip": "AS.DOMINE\\Tbl_Sedes.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Title": "ProfesoresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.INFRAESTRUCTURE\\REPOSITORY\\ProfesoresRepository.cs",
+              "RelativeDocumentMoniker": "AS.INFRAESTRUCTURE\\REPOSITORY\\ProfesoresRepository.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.INFRAESTRUCTURE\\REPOSITORY\\ProfesoresRepository.cs",
+              "RelativeToolTip": "AS.INFRAESTRUCTURE\\REPOSITORY\\ProfesoresRepository.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwMkAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T18:43:13.853Z",
+              "WhenOpened": "2026-11-25T04:08:12.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Tbl_Profesores.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Profesores.cs",
-              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Profesores.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Profesores.cs",
-              "RelativeToolTip": "AS.DOMINE\\Tbl_Profesores.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T18:40:49.728Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.PRESENTATION\\appsettings.json",
+              "RelativeDocumentMoniker": "AS.PRESENTATION\\appsettings.json",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.PRESENTATION\\appsettings.json",
+              "RelativeToolTip": "AS.PRESENTATION\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-25T02:53:58.755Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Tbl_Materias.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Materias.cs",
-              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Materias.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Materias.cs",
-              "RelativeToolTip": "AS.DOMINE\\Tbl_Materias.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Title": "Tbl_Usuarios_Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Usuarios_Roles.cs",
+              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Usuarios_Roles.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Usuarios_Roles.cs",
+              "RelativeToolTip": "AS.DOMINE\\Tbl_Usuarios_Roles.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T18:39:15.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T18:46:17.244Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Tbl_Instituciones.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Instituciones.cs",
-              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Instituciones.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Instituciones.cs",
-              "RelativeToolTip": "AS.DOMINE\\Tbl_Instituciones.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Title": "Tbl_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Usuarios.cs",
+              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Usuarios.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Usuarios.cs",
+              "RelativeToolTip": "AS.DOMINE\\Tbl_Usuarios.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T18:35:23.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T18:44:45.224Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Tbl_Grados.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Grados.cs",
-              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Grados.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Grados.cs",
-              "RelativeToolTip": "AS.DOMINE\\Tbl_Grados.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Title": "Tbl_Sedes.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Sedes.cs",
+              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Sedes.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Sedes.cs",
+              "RelativeToolTip": "AS.DOMINE\\Tbl_Sedes.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T18:33:54.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T18:43:13.853Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Tbl_Estados_Asistencia.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Estados_Asistencia.cs",
-              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Estados_Asistencia.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Estados_Asistencia.cs",
-              "RelativeToolTip": "AS.DOMINE\\Tbl_Estados_Asistencia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Title": "Tbl_Profesores.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Profesores.cs",
+              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Profesores.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Profesores.cs",
+              "RelativeToolTip": "AS.DOMINE\\Tbl_Profesores.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T18:32:06.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T18:40:49.728Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Tbl_Estados.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Estados.cs",
-              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Estados.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Estados.cs",
-              "RelativeToolTip": "AS.DOMINE\\Tbl_Estados.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "Tbl_Materias.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Materias.cs",
+              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Materias.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Materias.cs",
+              "RelativeToolTip": "AS.DOMINE\\Tbl_Materias.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T18:31:32.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T18:39:15.663Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Tbl_Credenciales.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Credenciales.cs",
-              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Credenciales.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Credenciales.cs",
-              "RelativeToolTip": "AS.DOMINE\\Tbl_Credenciales.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Title": "Tbl_Instituciones.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Instituciones.cs",
+              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Instituciones.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Instituciones.cs",
+              "RelativeToolTip": "AS.DOMINE\\Tbl_Instituciones.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T18:30:30.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T18:35:23.259Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Tbl_Grados.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Grados.cs",
+              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Grados.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Grados.cs",
+              "RelativeToolTip": "AS.DOMINE\\Tbl_Grados.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:33:54.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tbl_Estados_Asistencia.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Estados_Asistencia.cs",
+              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Estados_Asistencia.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Estados_Asistencia.cs",
+              "RelativeToolTip": "AS.DOMINE\\Tbl_Estados_Asistencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:32:06.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tbl_Estados.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Estados.cs",
+              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Estados.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Estados.cs",
+              "RelativeToolTip": "AS.DOMINE\\Tbl_Estados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:31:32.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Tbl_Credenciales.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Credenciales.cs",
+              "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Credenciales.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Credenciales.cs",
+              "RelativeToolTip": "AS.DOMINE\\Tbl_Credenciales.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T18:30:30.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Tbl_Alumnos.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Alumnos.cs",
               "RelativeDocumentMoniker": "AS.DOMINE\\Tbl_Alumnos.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Proyecto Lovo \uD83D\uDC38\\IPI_Control_de_Asistencias\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Alumnos.cs",
+              "ToolTip": "C:\\Users\\Se\u00F1or\\Desktop\\claseLovo\\backend\\API_CLEANAR_ASISTENCIA\\AS.DOMINE\\Tbl_Alumnos.cs",
               "RelativeToolTip": "AS.DOMINE\\Tbl_Alumnos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T17:08:50.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T17:08:50.841Z"
             }
           ]
         },

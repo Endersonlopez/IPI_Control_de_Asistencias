@@ -88,8 +88,8 @@ export default function ClaseFormModal({
     }
 
     const url = modoEdicion
-      ? 'http://localhost:5110/api/Horarios/actualizar'
-      : 'http://localhost:5110/api/Horarios/insertar';
+      ? `${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Horarios/actualizar`
+      : `${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Horarios/insertar`;
     const method = modoEdicion ? 'PUT' : 'POST';
 
     try {
@@ -129,7 +129,7 @@ export default function ClaseFormModal({
     }
     setCreandoMateria(true);
     try {
-      const response = await fetch('http://localhost:5110/api/Materias/insertar', {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5110/api'}/Materias/insertar`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
