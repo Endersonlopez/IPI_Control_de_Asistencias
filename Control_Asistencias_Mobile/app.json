@@ -22,7 +22,8 @@
       },
       "edgeToEdgeEnabled": true,
       "permissions": [
-        "android.permission.CAMERA"
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
       ],
       "package": "com.anonymous.Control_Asistencias_Mobile"
     },
@@ -30,12 +31,19 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "expo-splash-screen"
+      "expo-splash-screen",
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Permite que Control de Asistencias acceda a tu cámara para escanear códigos QR."
+        }
+      ]
     ],
     "extra": {
       "eas": {
-        "projectId": "cac3457e-c866-475f-a554-fd1b08c1761c"
+        "projectId": "4f37ca6e-47cc-45e2-b929-736c2306a6f7"
       }
-    }
+    },
+    "owner": "586fgjslolo"
   }
 }
