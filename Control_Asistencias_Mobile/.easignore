@@ -1,9 +1,0 @@
-# Ignorar la carpeta raíz del backend
-../Control_Asistencias
-../.vs
-
-# Ignorar archivos grandes o temporales
-node_modules/
-.git/
-.expo/
-*.md
