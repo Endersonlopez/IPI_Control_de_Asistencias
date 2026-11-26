@@ -9,15 +9,9 @@ import {
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import axios from 'axios';
-import Constants from 'expo-constants';
+import { getApiUrl } from '../config';
 import { CameraView, useCameraPermissions } from 'expo-camera';
 import { Ionicons } from '@expo/vector-icons';
-
-const getApiUrl = () => {
-  const hostUri = Constants.expoConfig?.hostUri;
-  const ip = hostUri?.split(':')[0];
-  return `http://${ip}:5110/api`;
-};
 
 export default function ScannerScreen({ navigation }) {
   const [permission, requestPermission] = useCameraPermissions();
